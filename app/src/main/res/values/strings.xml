@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PaymentAppModule</string>
+    <string name="title_pyment">Payment</string>
+</resources>
