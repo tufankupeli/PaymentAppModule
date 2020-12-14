@@ -1,3 +1,4 @@
+include ':myPayment'
 include ':pyment'
 include ':app'
 rootProject.name = "PaymentAppModule"
